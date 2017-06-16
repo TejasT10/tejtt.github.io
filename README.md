@@ -1,2 +1,2 @@
-# tejuk.github.io
-The United Kingdom - my first hosted website
+# tejtt.github.io
+A deatiled description of Table Tennis - for beginners
